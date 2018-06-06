@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<PlanData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Job />
+</PlanData>>
+      <Date>2017-06-29T07:40:03.350221+07:00</Date>
+      <Job>Thử nghiệm thôi</Job>
+      <FromTime>
+        <X>4</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>5</X>
+        <Y>0</Y>
+      </ToTime>
+      <Status>COMING</Status>
+    </PlanItem>
+  </Job>
+</PlanData>> <Date>2017-06-08T00:00:00</Date>
+      <FromTime>
+        <X>0</X>
+        <Y>0</Y>
+      </FromTime>
+      <ToTime>
+        <X>0</X>
+        <Y>0</Y>
+      </ToTime>
+    </PlanItem>
+  </Job>
+</PlanData>
